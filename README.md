@@ -31,3 +31,4 @@
   ## Pinned Repos 👨‍💻
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cagrisahinoglu&repo=RickAndMorty-JetpackCompose)](https://github.com/cagrisahinoglu/RickAndMorty-JetpackCompose)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cagrisahinoglu&repo=VolumeSetting)](https://github.com/cagrisahinoglu/VolumeSetting)
